@@ -1,7 +1,7 @@
 import React from "react";
-import axios from "axios";
+
 import "./Search.css";
-import { AnimatedWeatherIcon, AnimatedWeatherTypes, AnimatedWeatherTimes  } from 'animated-weather-icon';
+
 
 export default function Search(){
     return(
